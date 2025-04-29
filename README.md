@@ -3,6 +3,8 @@ To provide a simple, self-hosted service that stores, secures, and serves enviro
 
 ---
 
+## Roadmap
+
 - [ ] Basic REST API with token-authenticated access
 - [ ] Secure storage of environment variable sets (per project/token)
 - [ ] Web UI for managing keys, values, and tokens
